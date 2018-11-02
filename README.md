@@ -1,5 +1,6 @@
 # preload
 Constructor object is preload page File Theme preload preload.css
+![The Preload](https://github.com/scagroup/preload/blob/master/preload.jpg)
 ## Stylesheets
 > INFO: load inline stylesheets and async method
 `<style async> `
